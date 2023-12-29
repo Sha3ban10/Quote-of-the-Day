@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    color: rgb(173, 68, 68);
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(68, 173, 173);
+    width: fit-content;
+    margin: auto;
+}
+
+.subscribe {
+    padding: 50px 0;
+    font-size: 25px;
+}
+
+
+.btn:hover {
+    background-color: antiquewhite !important;
+    color: #000 !important;
+    transition: 0.5s;
+}
+
+.quote {
+    font-size: 25px;
+    background-color: rgb(173, 68, 68);
+    width: fit-content;
+    padding: 10px 30px;
+}
